@@ -11,16 +11,19 @@ Customize your experience with special shapes, variable board sizes, and multipl
     - Easy
     - Medium
     - Hard
+![Screenshot 2025-06-20 160423](https://github.com/user-attachments/assets/c31e9616-729c-4390-be08-7f4b3a9e8653)
 
 - **Customizable Gameplay**
   - Choose your own shapes (not just X and O)
   - Select board size: 3x3, 4x4, or 5x5
   - Set the number of shapes in a row needed to win (e.g., 3, 4, or 5)
+![Screenshot 2025-06-20 170958](https://github.com/user-attachments/assets/c239fd25-67bd-411e-82a6-4f087dd666fc)
 
 ## How to Play
 
 1. **Select Game Mode**  
    Choose to play with a friend or against the bot.
+![Screenshot 2025-06-20 160409](https://github.com/user-attachments/assets/8afc8c43-8ff2-4d89-9ce1-02b545b9d662)
 
 2. **If playing with the bot:**  
    Select the difficulty level:  
